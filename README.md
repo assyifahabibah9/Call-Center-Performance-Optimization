@@ -29,6 +29,7 @@ Proyek ini merupakan bagian dari **PwC Virtual Case Experience (Data Analyst Job
 ---
 
 ## Eksplorasi & Analisis Dashboard
+![alt text](Dashboard.png)
 
 Dashboard dirancang dalam satu halaman eksekutif interaktif yang menyajikan performa makro operasional sekaligus menyediakan kapabilitas *drill-down* mikro untuk memantau performansi individu dari 8 agen aktif.
 
